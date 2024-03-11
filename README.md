@@ -1,3 +1,3 @@
-# Merge-Conflits
+LOCAL
 
 i need to rest today i'm sick but here we are doing git tasks
